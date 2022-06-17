@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AndroidChat</string>
+    <string name="login_password">password</string>
+    <string name="action_sign_in_short">action_sign_in_short</string>
+    <string name="username">username</string>
+    <string name="login_user">username</string>
+    <string name="login">Login</string>
+    <string name="user_name">username</string>
+    <string name="hyperlink">hyperlink</string>
+    <string name="register">Register</string>
+    <string name="confirm_password">confirm password</string>
+</resources>
